@@ -1,6 +1,6 @@
 {
   "name": "vue-lory",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Vue Slider Component is based on lory",
   "repository": "vue-bulma/lory",
   "license": "MIT",
@@ -15,6 +15,7 @@
     "vue-lory",
     "lory"
   ],
+  "main": "Lory.vue",
   "peerDependencies": {
     "vue": ">=2"
   },
