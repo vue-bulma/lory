@@ -1,0 +1,24 @@
+{
+  "name": "vue-lory",
+  "version": "0.0.0",
+  "description": "Vue Slider Component is based on lory",
+  "repository": "vue-bulma/lory",
+  "license": "MIT",
+  "author": {
+    "name": "Fangdun Cai",
+    "email": "cfddream@gmail.com",
+    "url": "fundon.me"
+  },
+  "keywords": [
+    "vue",
+    "slider",
+    "vue-lory",
+    "lory"
+  ],
+  "peerDependencies": {
+    "vue": ">=2"
+  },
+  "dependencies": {
+    "lory.js": "^2.2.1"
+  }
+}
