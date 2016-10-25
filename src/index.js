@@ -1,11 +1,4 @@
-const Item = require('./Item')
-const Lory = require('./Lory')
-const Prev = require('./Prev')
-const Next = require('./Next')
-
-module.exports = {
-  Item,
-  Lory,
-  Prev,
-  Next
-}
+exports.Item = require('./Item')
+exports.Lory = require('./Lory')
+exports.Prev = require('./Prev')
+exports.Next = require('./Next')
