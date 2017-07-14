@@ -1,4 +1,4 @@
-exports.Item = require('./Item')
-exports.Lory = require('./Lory')
-exports.Prev = require('./Prev')
-exports.Next = require('./Next')
+exports.Item = require('./Item').default
+exports.Lory = require('./Lory').default
+exports.Prev = require('./Prev').default
+exports.Next = require('./Next').default
